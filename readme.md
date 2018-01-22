@@ -1,9 +1,5 @@
 # WePlay
 Sistema de rádio online.
-## Setup do ambiente
-Instalação do Node.JS para Windows: [aqui](https://nodejs.org/en/download/)
-
-Instalação do Node.JS para Ubuntu e derivados: [aqui](https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt)
 
 ## Como executar
 Para instalar as dependências da aplicação execute o seguinte comando:
